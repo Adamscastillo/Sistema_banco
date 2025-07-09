@@ -47,4 +47,4 @@ O sistema funciona via terminal e armazena o histórico de movimentações em va
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu_usuario/sistema-bancario-python.git
+git clone https://github.com/Adamscastillo/Sistema_banco.git
